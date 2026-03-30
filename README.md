@@ -67,16 +67,6 @@ Classification (12 Classes)
 - Matplotlib  
 
 ---
-
-## ⚙️ Technologies Used
-
-- Python 🐍  
-- PyTorch 🔥  
-- NumPy & Pandas  
-- Scikit-learn  
-- Matplotlib
-
----
 ## 📊 Results
 
 | Model               | Test Accuracy | Test Loss |
