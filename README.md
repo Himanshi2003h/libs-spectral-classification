@@ -35,15 +35,13 @@ This project explores different deep learning techniques to effectively classify
 ---
 
 ## 🔄 Pipeline
-Raw Spectral Data
-↓
-Data Preprocessing (Scaling)
-↓
-Model Training (CNN / LSTM / ResNet / Autoencoder)
-↓
-Feature Extraction / Sequence Learning
-↓
-Classification (12 Classes)
+## 🔄 Pipeline
+
+Raw Spectral Data  
+→ Data Preprocessing (Scaling)  
+→ Model Training (CNN / LSTM / ResNet / Autoencoder)  
+→ Feature Extraction / Sequence Learning  
+→ Classification (12 Classes)
 
 ---
 
