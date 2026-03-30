@@ -82,3 +82,11 @@ Raw Spectral Data
 - ResNet1D showed strong performance due to residual connections
 - CNN + LSTM struggled with sequence modeling on this dataset
 - Autoencoder + MLP underperformed due to information loss in compression
+
+## 🧠 Key Learnings
+
+- Handling high-dimensional spectral data (40K+ features)
+- Comparison of multiple deep learning architectures
+- Understanding when sequence models (LSTM) are useful
+- Impact of dimensionality reduction using Autoencoders
+- Importance of residual learning (ResNet)
