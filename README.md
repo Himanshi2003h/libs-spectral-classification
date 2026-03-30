@@ -92,16 +92,14 @@ Classification (12 Classes)
 - Matplotlib
 
 ---
-📊 Results
+## 📊 Results
 
-The performance of different models on the test dataset is summarized below:
-
-Model	          Test Accuracy	      Test Loss
-CNN	             69.47%	          2.5597
-CNN + LSTM	       55.52%            2.8180
-ResNet1D	          67.40%	          3.2745
-Autoencoder + MLP	 27.67%	          3.6961
-
+| Model               | Test Accuracy | Test Loss |
+|--------------------|--------------|----------|
+| CNN                | **69.47%**   | 2.5597   |
+| CNN + LSTM         | 55.52%       | 2.8180   |
+| ResNet1D           | **67.40%**   | 3.2745   |
+| Autoencoder + MLP  | 27.67%       | 3.6961   |
 📈 Detailed Analysis
 
 🔹 CNN
