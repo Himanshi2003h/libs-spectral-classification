@@ -1,0 +1,16 @@
+
+---
+
+# 📦 ✅ requirements.txt (COPY THIS)
+
+Create file → `requirements.txt`
+
+```text
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+h5py
+tqdm
+jupyter
