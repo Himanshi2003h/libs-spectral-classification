@@ -35,3 +35,74 @@ This project explores different deep learning techniques to effectively classify
 ---
 
 ## 🔄 Pipeline
+Raw Spectral Data
+↓
+Data Preprocessing (Scaling)
+↓
+Model Training (CNN / LSTM / ResNet / Autoencoder)
+↓
+Feature Extraction / Sequence Learning
+↓
+Classification (12 Classes)
+
+---
+
+## 📊 Model Comparison
+
+| Model | Key Strength |
+|------|-------------|
+| CNN | Basic feature extraction |
+| CNN + LSTM | Sequence modeling |
+| ResNet1D | Deep learning with residual connections |
+| Autoencoder + MLP | Dimensionality reduction |
+
+---
+
+## ⚙️ Technologies Used
+
+- Python 🐍  
+- PyTorch 🔥  
+- NumPy & Pandas  
+- Scikit-learn  
+- Matplotlib  
+
+---
+
+## 📁 Project Structure
+
+---
+
+## 📊 Model Comparison
+
+| Model | Key Strength |
+|------|-------------|
+| CNN | Basic feature extraction |
+| CNN + LSTM | Sequence modeling |
+| ResNet1D | Deep learning with residual connections |
+| Autoencoder + MLP | Dimensionality reduction |
+
+---
+
+## ⚙️ Technologies Used
+
+- Python 🐍  
+- PyTorch 🔥  
+- NumPy & Pandas  
+- Scikit-learn  
+- Matplotlib  
+
+---
+
+## 📁 Project Structure
+libs-spectral-classification/
+│
+├── notebooks/
+│ ├── cnn.ipynb
+│ ├── cnn_lstm.ipynb
+│ ├── resnet1d.ipynb
+│ ├── autoencoder.ipynb
+│
+├── outputs/
+│
+├── README.md
+├── requirements.txt
