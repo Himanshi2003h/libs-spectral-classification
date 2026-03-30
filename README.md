@@ -89,4 +89,31 @@ Classification (12 Classes)
 - PyTorch 🔥  
 - NumPy & Pandas  
 - Scikit-learn  
-- Matplotlib  
+- Matplotlib
+
+---
+📊 Results
+
+The performance of different models on the test dataset is summarized below:
+
+Model	          Test Accuracy	      Test Loss
+CNN	             69.47%	          2.5597
+CNN + LSTM	       55.52%            2.8180
+ResNet1D	          67.40%	          3.2745
+Autoencoder + MLP	 27.67%	          3.6961
+
+📈 Detailed Analysis
+
+🔹 CNN
+Achieved the highest accuracy (69.47%)
+Strong performance on major classes (Class 2, 8, 9)
+Struggles with minority classes (Class 3, 7)
+
+🔹 CNN + LSTM
+Lower accuracy (55.52%)
+Better at capturing sequence patterns
+Overfits or struggles with class imbalance
+
+🔹 ResNet1D
+Second best performance (67.40%)
+More stable learning due
