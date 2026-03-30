@@ -1,3 +1,6 @@
+Test Loss: 2.5597
+Test Accuracy: 69.47%
+
 --- Classification Report ---
               precision    recall  f1-score   support
 
