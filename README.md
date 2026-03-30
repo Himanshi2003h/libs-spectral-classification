@@ -77,18 +77,9 @@ Raw Spectral Data
 
 
 
-📈 Detailed Analysis
+## 📈 Analysis
 
-🔹 CNN
-Achieved the highest accuracy (69.47%)
-Strong performance on major classes (Class 2, 8, 9)
-Struggles with minority classes (Class 3, 7)
-
-🔹 CNN + LSTM
-Lower accuracy (55.52%)
-Better at capturing sequence patterns
-Overfits or struggles with class imbalance
-
-🔹 ResNet1D
-Second best performance (67.40%)
-More stable learning due
+- CNN achieved the best performance with 69.47% accuracy
+- ResNet1D showed strong performance due to residual connections
+- CNN + LSTM struggled with sequence modeling on this dataset
+- Autoencoder + MLP underperformed due to information loss in compression
