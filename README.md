@@ -68,21 +68,6 @@ Classification (12 Classes)
 
 ---
 
-## 📁 Project Structure
-
----
-
-## 📊 Model Comparison
-
-| Model | Key Strength |
-|------|-------------|
-| CNN | Basic feature extraction |
-| CNN + LSTM | Sequence modeling |
-| ResNet1D | Deep learning with residual connections |
-| Autoencoder + MLP | Dimensionality reduction |
-
----
-
 ## ⚙️ Technologies Used
 
 - Python 🐍  
@@ -100,6 +85,10 @@ Classification (12 Classes)
 | CNN + LSTM         | 55.52%       | 2.8180   |
 | ResNet1D           | **67.40%**   | 3.2745   |
 | Autoencoder + MLP  | 27.67%       | 3.6961   |
+
+
+
+
 📈 Detailed Analysis
 
 🔹 CNN
