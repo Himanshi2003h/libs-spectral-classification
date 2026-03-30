@@ -35,7 +35,6 @@ This project explores different deep learning techniques to effectively classify
 ---
 
 ## 🔄 Pipeline
-## 🔄 Pipeline
 
 Raw Spectral Data  
 → Data Preprocessing (Scaling)  
