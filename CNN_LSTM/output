@@ -1,0 +1,24 @@
+Evaluating model on test data...
+Evaluating:   0%|          | 0/625 [00:00<?, ?it/s]
+Test Loss: 2.8180
+Test Accuracy: 55.52%
+
+--- Classification Report ---
+              precision    recall  f1-score   support
+
+     Class 1     0.4544    0.4355    0.4447      3146
+     Class 2     0.6506    0.5641    0.6042      3129
+     Class 3     0.0391    0.0203    0.0267       543
+     Class 4     0.5962    0.7966    0.6820      1603
+     Class 5     0.3030    0.7137    0.4254      1048
+     Class 6     0.6500    0.7118    0.6795      1589
+     Class 7     0.0000    0.0000    0.0000       560
+     Class 8     0.6118    0.8195    0.7006      1546
+     Class 9     0.7439    0.5424    0.6273      3127
+    Class 10     0.2798    0.9805    0.4354       514
+    Class 11     0.9759    0.4175    0.5848      3195
+    Class 12     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.5552     20000
+   macro avg     0.4420    0.5002    0.4342     20000
+weighted avg     0.6163    0.5552    0.5530     20000
